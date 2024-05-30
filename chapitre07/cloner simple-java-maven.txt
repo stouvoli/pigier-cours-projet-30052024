@@ -1,0 +1,1 @@
+git clone https://github.com/YOUR-GITHUB-ACCOUNT-NAME/simple-java-maven-app
